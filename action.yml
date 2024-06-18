@@ -1,5 +1,6 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
-name: "GH Release"
+name: "GH Action
+"
 description: "Github Action for creating Github Releases"
 author: "softprops"
 inputs:
